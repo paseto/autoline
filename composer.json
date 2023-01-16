@@ -1,0 +1,19 @@
+{
+    "name": "paseto/autoline",
+    "description": "Autoline WS API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paseto\\Autoline\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paseto",
+            "email": "giovaniw2@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
